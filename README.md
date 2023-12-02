@@ -1,4 +1,5 @@
 # imran-khan
+![logo](https://github.com/MrCzee/imran-khan/blob/main/myGitBanner.jpeg)
 <h1 align="center">Hi 👋, I'm Imran Khan Lashari</h1>
 <h3 align="center">
 🇵🇰 Mobile maestro from Karachi, here to code across realms! 📱 Native, hybrid, web - you name it, I make it sing. 🪄 Backend's my secret weapon, crafting logic like a symphony. 🎶 But code's just the beginning. Learning's my fuel, data structures my playground. 🧠 Algorithms?
