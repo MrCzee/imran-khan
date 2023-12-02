@@ -5,7 +5,7 @@
 🇵🇰 Mobile maestro from Karachi, here to code across realms! 📱 Native, hybrid, web - you name it, I make it sing. 🪄 Backend's my secret weapon, crafting logic like a symphony. 🎶 But code's just the beginning. Learning's my fuel, data structures my playground. 🧠 Algorithms?
 </h3>
 
-<img align="right"alt="coding" width = "400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="coding" width="400" align="right">
 
 
 
