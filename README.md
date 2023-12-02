@@ -1,4 +1,4 @@
-# imran-khan
+# MrCzee
 ![logo](https://github.com/MrCzee/imran-khan/blob/main/myGitBanner.jpeg)
 <h1 align="center">Hi 👋, I'm Imran Khan Lashari</h1>
 <h3 align="center">
